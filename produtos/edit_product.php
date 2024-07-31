@@ -39,7 +39,7 @@ if ($conn->query($sql) === TRUE) {
         <a href="index.php">Voltar</a>
     </nav>
     <main>
-<h2>Adicionar Novo Produto</h2>
+<h2>Editar Produto</h2>
 
 <form method="post" action="" >
 
